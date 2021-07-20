@@ -17,7 +17,7 @@ vue+springboot的前后端分离多人博客项目
 ### 项目预览
 
 主页
-![]()
+![](https://github.com/CaiHuSong/caicaiblog/blob/master/image/%E4%B8%BB%E9%A1%B5.png)
 登录
 ![]()
 文章详情
