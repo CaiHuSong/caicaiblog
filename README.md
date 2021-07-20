@@ -7,6 +7,7 @@ vue+springboot的前后端分离多人博客项目
   * mybatis-puls
   * redis
   * mysql
+  * jwt
   * 七牛云
 * 前端
   * vue
